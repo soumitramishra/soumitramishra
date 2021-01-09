@@ -3,6 +3,7 @@ I am a recent Northeastern University Computer Science graduat who loves and cap
 I have built and deployed websites, mobile application as well as capable of configuring and troubleshooting Networks and Operating Systems.
 
 Visit me at www.mishrasoumitra.com
+
 Feel free to reach me: mishra.s@northeastern.edu | soumitramishra26@gmail.com
 <!--
 **soumitramishra/soumitramishra** is a ✨ _special_ ✨repository because its `README.md` (this file) appears on your GitHub profile.
