@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a recent Northeastern University Computer Science graduate who loves and capable of working on any part of the Software Development Lifecycle.
+I am a recent Northeastern University Computer Science graduate who loves coding and capable of working on any part of the Software Development Lifecycle.
 I have built and deployed websites, mobile application as well as capable of configuring and troubleshooting Networks and Operating Systems.
 
 Visit me at www.mishrasoumitra.com
