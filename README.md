@@ -1,10 +1,10 @@
 ### Hi there 👋
-I am a recent Northeastern University Computer Science graduate who loves coding and capable of working on any part of the Software Development Lifecycle.
-I have built and deployed websites, mobile application as well as capable of configuring and troubleshooting Networks and Operating Systems.
-
+I am a Software Engineer in Test and Automation at Versa Networks who loves coding and capable of working on any part of the Software Development Lifecycle.
+I have built and deployed websites, mobile application, Test Frameworks as well as capable of configuring and troubleshooting Networks and Operating Systems.
+I am looking to collaborate on open source Python/Java projects.
 Visit me at www.mishrasoumitra.com
 
-Feel free to reach me: mishra.s@northeastern.edu | soumitramishra26@gmail.com
+Feel free to reach me: mishra.s@northeastern.edu | soumitramishra26@gmail.com | soumitra@versa-networks.com
 <!--
 **soumitramishra/soumitramishra** is a ✨ _special_ ✨repository because its `README.md` (this file) appears on your GitHub profile.
 
