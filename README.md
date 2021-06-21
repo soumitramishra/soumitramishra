@@ -1,10 +1,10 @@
 ### Hi there 👋
-I am a Software Engineer in Test and Automation at Versa Networks who loves coding and capable of working on any part of the Software Development Lifecycle.
-I have built and deployed websites, mobile application, Test Frameworks as well as capable of configuring and troubleshooting Networks and Operating Systems.
+I am a Systems Software Engineer at Aruba, a Systems Software Engineer at Aruba, a Hewlett Packard Enterprise company, who loves coding and capable of working on any part of the Software Development Lifecycle.
+I have built and deployed websites, mobile application, Network & Systems Software, Test Frameworks as well as capable of configuring and troubleshooting Networks and Operating Systems.
 I am looking to collaborate on open source Python/Java projects.
 Visit me at www.mishrasoumitra.com
 
-Feel free to reach me: mishra.s@northeastern.edu | soumitramishra26@gmail.com | soumitra@versa-networks.com
+Feel free to reach me: mishra.s@northeastern.edu | soumitramishra26@gmail.com | soumitra.mishra@hpe.com
 <!--
 **soumitramishra/soumitramishra** is a ✨ _special_ ✨repository because its `README.md` (this file) appears on your GitHub profile.
 
